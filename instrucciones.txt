@@ -1,0 +1,15 @@
+- Para inscribir cursos:
+	Buscar cursos
+
+	Options:
+	  --help                    Show help                                  [boolean]
+	  --version                 Show version number                        [boolean]
+	  --cursoCodigo, --cc                                                 [required]
+	  --interesadoNombre, --in                                            [required]
+	  --interesadoCedula, --ic                                            [required]
+	  
+	Comando: 
+			node index buscar --cc=4 --in=Carlos --ic=1023566
+
+- Para listar cursos: 
+	Comando: node index listar			

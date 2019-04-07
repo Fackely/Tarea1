@@ -1,0 +1,23 @@
+{
+  "name": "tarea_1",
+  "version": "1.0.0",
+  "description": "Primera actividad ejecutandose con express de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index buscar --cc=4 --in=Carlos --ic=1023566 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fackely/Tarea1.git"
+  },
+  "author": "Hever Martinez fackelymm20@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fackely/Tarea1/issues"
+  },
+  "homepage": "https://github.com/Fackely/Tarea1#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  }
+}
